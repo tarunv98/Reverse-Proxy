@@ -1,0 +1,132 @@
+[INFO] 28/08/2020:17:56:17 >> Client Connected ---- ::1:50342 
+[INFO] 28/08/2020:17:56:17 >> Client Connected ---- ::1:50344 
+[INFO] 28/08/2020:17:56:20 >> Client Connected ---- ::ffff:127.0.0.1:59870 
+[INFO] 28/08/2020:17:56:25 >> Client Disconnected ---- ::ffff:127.0.0.1:59870 
+[INFO] 28/08/2020:17:56:28 >> Client Disconnected ---- ::1:50342 
+[INFO] 28/08/2020:17:56:28 >> Client Disconnected ---- ::1:50344 
+[INFO] 28/08/2020:17:57:03 >> Client Connected ---- ::ffff:127.0.0.1:59878 
+[INFO] 28/08/2020:17:57:04 >> Client Disconnected ---- ::ffff:127.0.0.1:59878 
+[INFO] 28/08/2020:17:57:23 >> Client Connected ---- ::ffff:127.0.0.1:59886 
+[INFO] 28/08/2020:17:57:23 >> Client Connected ---- ::ffff:127.0.0.1:59890 
+[INFO] 28/08/2020:17:57:23 >> Client Connected ---- ::ffff:127.0.0.1:59894 
+[ERROR] 28/08/2020:17:57:23 >> [PROXY][CLIENT-ERROR] read ECONNRESET 
+[INFO] 28/08/2020:17:57:23 >> Client Disconnected ---- ::ffff:127.0.0.1:59894 
+[INFO] 28/08/2020:17:57:24 >> Client Connected ---- ::ffff:127.0.0.1:59898 
+[INFO] 28/08/2020:17:57:24 >> Client Connected ---- ::ffff:127.0.0.1:59900 
+[ERROR] 28/08/2020:17:57:24 >> [PROXY][CLIENT-ERROR] read ECONNRESET 
+[INFO] 28/08/2020:17:57:24 >> Client Disconnected ---- ::ffff:127.0.0.1:59900 
+[INFO] 28/08/2020:17:57:24 >> Client Connected ---- ::ffff:127.0.0.1:59904 
+[INFO] 28/08/2020:17:57:24 >> Client Connected ---- ::ffff:127.0.0.1:59908 
+[ERROR] 28/08/2020:17:57:24 >> [PROXY][CLIENT-ERROR] read ECONNRESET 
+[INFO] 28/08/2020:17:57:24 >> Client Disconnected ---- ::ffff:127.0.0.1:59908 
+[INFO] 28/08/2020:17:57:24 >> Client Connected ---- ::ffff:127.0.0.1:59912 
+[ERROR] 28/08/2020:17:57:24 >> [PROXY][CLIENT-ERROR] read ECONNRESET 
+[INFO] 28/08/2020:17:57:24 >> Client Disconnected ---- ::ffff:127.0.0.1:59912 
+[INFO] 28/08/2020:17:57:24 >> Client Connected ---- ::ffff:127.0.0.1:59916 
+[ERROR] 28/08/2020:17:57:24 >> [PROXY][CLIENT-ERROR] read ECONNRESET 
+[INFO] 28/08/2020:17:57:24 >> Client Disconnected ---- ::ffff:127.0.0.1:59916 
+[INFO] 28/08/2020:17:57:24 >> Client Connected ---- ::ffff:127.0.0.1:59920 
+[INFO] 28/08/2020:17:57:24 >> Client Connected ---- ::ffff:127.0.0.1:59924 
+[INFO] 28/08/2020:17:57:24 >> Client Connected ---- ::ffff:127.0.0.1:59928 
+[ERROR] 28/08/2020:17:57:24 >> [PROXY][SERVER-ERROR] This socket has been ended by the other party 
+[ERROR] 28/08/2020:17:57:24 >> [PROXY][CLIENT-ERROR] read ECONNRESET 
+[INFO] 28/08/2020:17:57:24 >> Client Disconnected ---- ::ffff:127.0.0.1:59928 
+[INFO] 28/08/2020:17:57:25 >> Client Connected ---- ::ffff:127.0.0.1:59932 
+[INFO] 28/08/2020:17:57:25 >> Client Connected ---- ::ffff:127.0.0.1:59936 
+[ERROR] 28/08/2020:17:57:25 >> [PROXY][CLIENT-ERROR] read ECONNRESET 
+[INFO] 28/08/2020:17:57:25 >> Client Disconnected ---- ::ffff:127.0.0.1:59936 
+[INFO] 28/08/2020:17:57:29 >> Client Connected ---- ::ffff:127.0.0.1:59942 
+[ERROR] 28/08/2020:17:57:29 >> [PROXY][CLIENT-ERROR] read ECONNRESET 
+[INFO] 28/08/2020:17:57:29 >> Client Disconnected ---- ::ffff:127.0.0.1:59942 
+[INFO] 28/08/2020:17:57:30 >> Client Disconnected ---- ::ffff:127.0.0.1:59898 
+[INFO] 28/08/2020:17:57:39 >> Client Connected ---- ::ffff:127.0.0.1:59946 
+[ERROR] 28/08/2020:17:57:39 >> [PROXY][CLIENT-ERROR] read ECONNRESET 
+[INFO] 28/08/2020:17:57:39 >> Client Disconnected ---- ::ffff:127.0.0.1:59946 
+[INFO] 28/08/2020:17:58:02 >> Client Connected ---- ::ffff:127.0.0.1:59962 
+[INFO] 28/08/2020:17:58:21 >> Client Connected ---- ::ffff:127.0.0.1:59970 
+[ERROR] 28/08/2020:17:58:21 >> [PROXY][SERVER-ERROR] This socket has been ended by the other party 
+[ERROR] 28/08/2020:17:58:21 >> [PROXY][CLIENT-ERROR] read ECONNRESET 
+[INFO] 28/08/2020:17:58:21 >> Client Disconnected ---- ::ffff:127.0.0.1:59970 
+[INFO] 28/08/2020:17:58:21 >> Client Connected ---- ::ffff:127.0.0.1:59974 
+[INFO] 28/08/2020:17:58:22 >> Client Connected ---- ::ffff:127.0.0.1:59978 
+[INFO] 28/08/2020:17:58:22 >> Client Connected ---- ::ffff:127.0.0.1:59982 
+[INFO] 28/08/2020:17:58:22 >> Client Connected ---- ::ffff:127.0.0.1:59986 
+[ERROR] 28/08/2020:17:58:22 >> [PROXY][SERVER-ERROR] This socket has been ended by the other party 
+[INFO] 28/08/2020:17:58:22 >> Client Disconnected ---- ::ffff:127.0.0.1:59982 
+[INFO] 28/08/2020:17:58:22 >> Client Connected ---- ::ffff:127.0.0.1:59988 
+[INFO] 28/08/2020:17:58:22 >> Client Connected ---- ::ffff:127.0.0.1:59994 
+[ERROR] 28/08/2020:17:58:22 >> [PROXY][SERVER-ERROR] This socket has been ended by the other party 
+[ERROR] 28/08/2020:17:58:22 >> [PROXY][CLIENT-ERROR] read ECONNRESET 
+[INFO] 28/08/2020:17:58:22 >> Client Disconnected ---- ::ffff:127.0.0.1:59994 
+[INFO] 28/08/2020:17:58:22 >> Client Connected ---- ::ffff:127.0.0.1:59998 
+[INFO] 28/08/2020:17:58:22 >> Client Connected ---- ::ffff:127.0.0.1:60002 
+[INFO] 28/08/2020:17:58:22 >> Client Connected ---- ::ffff:127.0.0.1:60006 
+[ERROR] 28/08/2020:17:58:22 >> [PROXY][CLIENT-ERROR] read ECONNRESET 
+[INFO] 28/08/2020:17:58:22 >> Client Disconnected ---- ::ffff:127.0.0.1:60006 
+[INFO] 28/08/2020:17:58:22 >> Client Connected ---- ::ffff:127.0.0.1:60010 
+[ERROR] 28/08/2020:17:58:22 >> [PROXY][CLIENT-ERROR] read ECONNRESET 
+[INFO] 28/08/2020:17:58:22 >> Client Connected ---- ::ffff:127.0.0.1:60014 
+[INFO] 28/08/2020:17:58:22 >> Client Disconnected ---- ::ffff:127.0.0.1:60010 
+[INFO] 28/08/2020:17:58:22 >> Client Connected ---- ::ffff:127.0.0.1:60018 
+[ERROR] 28/08/2020:17:58:22 >> [PROXY][SERVER-ERROR] This socket has been ended by the other party 
+[ERROR] 28/08/2020:17:58:22 >> [PROXY][CLIENT-ERROR] read ECONNRESET 
+[INFO] 28/08/2020:17:58:22 >> Client Disconnected ---- ::ffff:127.0.0.1:60018 
+[INFO] 28/08/2020:17:58:39 >> Client Connected ---- ::ffff:127.0.0.1:60026 
+[ERROR] 28/08/2020:17:58:39 >> [PROXY][CLIENT-ERROR] read ECONNRESET 
+[INFO] 28/08/2020:17:58:39 >> Client Disconnected ---- ::ffff:127.0.0.1:60026 
+[INFO] 28/08/2020:17:59:13 >> Client Connected ---- ::ffff:127.0.0.1:60030 
+[ERROR] 28/08/2020:17:59:13 >> [PROXY][CLIENT-ERROR] read ECONNRESET 
+[INFO] 28/08/2020:17:59:13 >> Client Disconnected ---- ::ffff:127.0.0.1:60030 
+[INFO] 28/08/2020:17:59:13 >> Client Connected ---- ::ffff:127.0.0.1:60034 
+[ERROR] 28/08/2020:17:59:13 >> [PROXY][CLIENT-ERROR] read ECONNRESET 
+[INFO] 28/08/2020:17:59:13 >> Client Disconnected ---- ::ffff:127.0.0.1:60034 
+[INFO] 28/08/2020:17:59:14 >> Client Connected ---- ::ffff:127.0.0.1:60038 
+[ERROR] 28/08/2020:17:59:14 >> [PROXY][CLIENT-ERROR] read ECONNRESET 
+[INFO] 28/08/2020:17:59:14 >> Client Disconnected ---- ::ffff:127.0.0.1:60038 
+[INFO] 28/08/2020:17:59:14 >> Client Connected ---- ::ffff:127.0.0.1:60042 
+[ERROR] 28/08/2020:17:59:14 >> [PROXY][CLIENT-ERROR] read ECONNRESET 
+[INFO] 28/08/2020:17:59:14 >> Client Disconnected ---- ::ffff:127.0.0.1:60042 
+[INFO] 28/08/2020:17:59:16 >> Client Connected ---- ::ffff:127.0.0.1:60046 
+[INFO] 28/08/2020:17:59:21 >> Client Disconnected ---- ::ffff:127.0.0.1:60046 
+[INFO] 28/08/2020:17:59:59 >> Client Connected ---- ::ffff:127.0.0.1:60056 
+[ERROR] 28/08/2020:17:59:59 >> [PROXY][CLIENT-ERROR] read ECONNRESET 
+[INFO] 28/08/2020:17:59:59 >> Client Disconnected ---- ::ffff:127.0.0.1:60056 
+[INFO] 28/08/2020:18:00:22 >> Client Connected ---- ::ffff:127.0.0.1:60062 
+[ERROR] 28/08/2020:18:00:22 >> [PROXY][SERVER-ERROR] This socket has been ended by the other party 
+[ERROR] 28/08/2020:18:00:22 >> [PROXY][CLIENT-ERROR] read ECONNRESET 
+[INFO] 28/08/2020:18:00:22 >> Client Disconnected ---- ::ffff:127.0.0.1:60062 
+[INFO] 28/08/2020:18:00:22 >> Client Connected ---- ::ffff:127.0.0.1:60066 
+[INFO] 28/08/2020:18:00:22 >> Client Connected ---- ::ffff:127.0.0.1:60070 
+[ERROR] 28/08/2020:18:00:22 >> [PROXY][SERVER-ERROR] This socket has been ended by the other party 
+[INFO] 28/08/2020:18:00:22 >> Client Disconnected ---- ::ffff:127.0.0.1:60066 
+[INFO] 28/08/2020:18:00:22 >> Client Connected ---- ::ffff:127.0.0.1:60074 
+[ERROR] 28/08/2020:18:00:22 >> [PROXY][SERVER-ERROR] This socket has been ended by the other party 
+[INFO] 28/08/2020:18:00:22 >> Client Disconnected ---- ::ffff:127.0.0.1:60070 
+[INFO] 28/08/2020:18:00:22 >> Client Connected ---- ::ffff:127.0.0.1:60078 
+[ERROR] 28/08/2020:18:00:22 >> [PROXY][SERVER-ERROR] This socket has been ended by the other party 
+[ERROR] 28/08/2020:18:00:22 >> [PROXY][CLIENT-ERROR] read ECONNRESET 
+[INFO] 28/08/2020:18:00:22 >> Client Disconnected ---- ::ffff:127.0.0.1:60078 
+[INFO] 28/08/2020:18:00:22 >> Client Connected ---- ::ffff:127.0.0.1:60082 
+[ERROR] 28/08/2020:18:00:22 >> [PROXY][CLIENT-ERROR] read ECONNRESET 
+[INFO] 28/08/2020:18:00:22 >> Client Disconnected ---- ::ffff:127.0.0.1:60082 
+[INFO] 28/08/2020:18:00:22 >> Client Connected ---- ::ffff:127.0.0.1:60086 
+[ERROR] 28/08/2020:18:00:22 >> [PROXY][SERVER-ERROR] This socket has been ended by the other party 
+[ERROR] 28/08/2020:18:00:22 >> [PROXY][CLIENT-ERROR] read ECONNRESET 
+[INFO] 28/08/2020:18:00:22 >> Client Disconnected ---- ::ffff:127.0.0.1:60086 
+[INFO] 28/08/2020:18:00:22 >> Client Connected ---- ::ffff:127.0.0.1:60090 
+[ERROR] 28/08/2020:18:00:22 >> [PROXY][SERVER-ERROR] This socket has been ended by the other party 
+[ERROR] 28/08/2020:18:00:22 >> [PROXY][CLIENT-ERROR] read ECONNRESET 
+[INFO] 28/08/2020:18:00:22 >> Client Disconnected ---- ::ffff:127.0.0.1:60090 
+[INFO] 28/08/2020:18:00:22 >> Client Connected ---- ::ffff:127.0.0.1:60094 
+[ERROR] 28/08/2020:18:00:22 >> [PROXY][SERVER-ERROR] This socket has been ended by the other party 
+[INFO] 28/08/2020:18:00:22 >> Client Connected ---- ::ffff:127.0.0.1:60098 
+[INFO] 28/08/2020:18:00:22 >> Client Disconnected ---- ::ffff:127.0.0.1:60094 
+[INFO] 28/08/2020:18:00:22 >> Client Connected ---- ::ffff:127.0.0.1:60102 
+[ERROR] 28/08/2020:18:00:22 >> [PROXY][SERVER-ERROR] This socket has been ended by the other party 
+[INFO] 28/08/2020:18:00:22 >> Client Disconnected ---- ::ffff:127.0.0.1:60098 
+[INFO] 28/08/2020:18:02:25 >> Client Connected ---- ::ffff:127.0.0.1:60122 
+[ERROR] 28/08/2020:18:02:25 >> [PROXY][CLIENT-ERROR] read ECONNRESET 
+[INFO] 28/08/2020:18:02:25 >> Client Disconnected ---- ::ffff:127.0.0.1:60122 
+[INFO] 28/08/2020:18:02:39 >> Client Connected ---- ::ffff:127.0.0.1:60128 
+[ERROR] 28/08/2020:18:02:39 >> [PROXY][CLIENT-ERROR] read ECONNRESET 
+[INFO] 28/08/2020:18:02:39 >> Client Disconnected ---- ::ffff:127.0.0.1:60128 
