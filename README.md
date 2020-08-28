@@ -18,6 +18,8 @@ This is a Simple HTTP Reverse Proxy application built on NodeJS
 
 That's It!!!!
 
+5. Filteration: To add any IP address that you want to block connection, add them in lib/hostfilter.js.
+
 All the activity to your HTTP server are logged to logs.txt file.
 
 NOTE: THIS WORKS ONLY WITH HTTP SERVERS
