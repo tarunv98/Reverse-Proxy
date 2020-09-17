@@ -22,14 +22,21 @@ HTTPServer.on('connect', (req, clientSocket, head) => {
     clientSocket.end();
 });
 
+/**
+ * 
+ * @param {ServerResponse} res - server response object to be handled
+ */
 async function getResp(res){
-    let filedata = '';
+  let filedata = '';
+  try{  
     await fs.readFile('index.html', {encoding: 'utf-8'}, (err, data) => {
-        filedata = data;
-    
+    filedata = data;
     console.log(filedata);
     res.end(filedata);
-})
+    })
+  } catch(err){
+      console.log(`[ERROR][HTTP-SERVER] ${err}`);
+  }  
 }
 
 HTTPServer.listen(27017);

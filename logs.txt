@@ -1,6 +1,0 @@
-[INFO] 28/08/2020:18:54:18 >> Client Connected ---- ::1:53800 
-[INFO] 28/08/2020:18:54:18 >> [FIREWALL][OKAY] connected to ip  
-[INFO] 28/08/2020:18:54:18 >> Client Connected ---- ::1:53802 
-[INFO] 28/08/2020:18:54:18 >> [FIREWALL][OKAY] connected to ip  
-[INFO] 28/08/2020:18:54:55 >> Client Disconnected ---- ::1:53800 
-[INFO] 28/08/2020:18:54:55 >> Client Disconnected ---- ::1:53802 
