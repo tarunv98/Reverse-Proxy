@@ -1,6 +1,6 @@
 const net = require("net");
-const LOG = require("./logs/log");
-const { hostfilter } = require("./lib/hostfilter");
+const LOG = require("./lib/log.js");
+const { hostfilter } = require("./lib/hostfilter.js");
 const proxy_conf = require('./conf/proxy.json');
 const options = require('./conf/target.json')[proxy_conf.transport];
 
