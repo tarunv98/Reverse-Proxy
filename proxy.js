@@ -1,13 +1,10 @@
 const net = require("net");
 const LOG = require("./logs/log");
 const { hostfilter } = require("./lib/hostfilter");
+const proxy_conf = require('./conf/proxy.json');
+const options = require('./conf/target.json')[proxy_conf.transport];
 
 const proxyServer = net.createServer();
-
-const options = { // can specify your server options
-    host: 'localhost',
-    port: 27017
-}
 
 proxyServer.on('connection', (clientToProxySocket) => {
     LOG.info(`Client Connected ---- ${clientToProxySocket.remoteAddress}:${clientToProxySocket.remotePort}`);
@@ -50,6 +47,6 @@ proxyServer.on('error', (err) => {
     console.log(`[PROXY][PROXY-ERROR] ${err.message}`);
 })
 
-proxyServer.listen(8888, () => {
-    console.log("[PROXY][START]Proxy running on port 8888");
+proxyServer.listen(proxy_conf.port, () => {
+    console.log(`[PROXY][START]Proxy running on port ${proxy_conf.port}`);
 });

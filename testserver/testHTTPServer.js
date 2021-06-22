@@ -1,5 +1,6 @@
 const http = require('http');
 const fs = require('fs');
+const http_conf = require('../conf/target.json').http_server
 
 const HTTPServer = http.createServer((req, res) => {
     // const headers = JSON.parse(req);
@@ -39,4 +40,4 @@ async function getResp(res){
   }  
 }
 
-HTTPServer.listen(27017);
+HTTPServer.listen(http_conf.port);
