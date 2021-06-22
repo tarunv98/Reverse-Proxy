@@ -1,4 +1,4 @@
-# Reverse Proxy(HTTP)
+# Reverse Proxy (HTTP)
 Host filtration + Activity tracking
 
 *This is a Simple HTTP Reverse Proxy application built on NodeJS*
@@ -8,13 +8,13 @@ Host filtration + Activity tracking
 1. Download/Clone the repo to a folder.
 2. In that folder run the proxy.js
 ```
-   $ node proxy.js
+   $ npm run start-proxy
 ```   
 
 3. Run your HTTP application if exists or Run the test server
    Go to testserver folder and run testHTTPServer.js
 ```   
-   $ node testHTTPServer.js
+   $ npm run start-http-test
  ```  
    (Test server runs on port 27017)
    To see how it is go localhost:27017 in the browser
