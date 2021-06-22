@@ -22,7 +22,7 @@ Host filtration + Activity tracking
 
 :v:That's It!!!!:v:
 
-5. *Filteration:* To add any IP address that you want to block connection, add them in lib/hostfilter.js.
+5. *Filteration:* To add any IP address that you want to block connection, add them in [here](./conf/blockedips.json).
 
 All the activity to your HTTP server are logged to logs.txt file.
 
